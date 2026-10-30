@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Kaden Bilyeu (Bikatr7)
+Copyright (c) 2024 Kaden Bilyeu (ktbilyeu)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,4 +24,4 @@ SOFTWARE.
 
 Additional Clause:
 
-This software is provided for educational purposes only. Users of this software must credit the original author (Kaden Bilyeu (Bikatr7)) and must not use this software in a way that violates academic integrity policies, such as submitting it as their own work for academic assignments or any similar violation such as plagiarism.
+This software is provided for educational purposes only. Users of this software must credit the original author (Kaden Bilyeu (ktbilyeu)) and must not use this software in a way that violates academic integrity policies, such as submitting it as their own work for academic assignments or any similar violation such as plagiarism.
